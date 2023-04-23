@@ -1,0 +1,40 @@
+{
+    "homeheader": {
+        "login": "Login",
+        "registration-directory": "Registration directory",
+        "news": "News",
+        "notification": "Notification"
+    },
+    "banner": {
+        "title1": "Traffic Safety",
+        "title2": "Everyone's happiness, everyone",
+        "search-title": "",
+        "child1": "Schedule a check-in",
+        "child2": "Appointment schedule",
+        "child3": "Notification",
+        "child4": "Support"
+    },
+    "section": {
+        "more": "more"
+    },
+    "more": {
+        "more-title": "More Information",
+        "paragrap": "After receiving many complaints from the people, about the bad conditions happening at the registration centers, typically the information that the registration center only accepts the inspection of official vehicles. Recently, the Registry Department has issued hot instructions to the registration centers, adjusted the motor vehicle inspection activities and made a number of strict requirements for the centers. In addition, the Registry Department also said that it has sent a document to the Department of Transport to request the registration units to support and strengthen the registrars for the registration units."
+    },
+    "footer": {
+        "copy-right": "Phan Trung Sơn. More Infomation, please visit my profile.",
+        "click-here": "Click here"
+    },
+    "menu": {
+        "system": {
+            "header-user": "User",
+            "header-news": "News management",
+            "header-schedule": "Appointment management"
+        },
+        "user": {
+            "manage-user": "User management",
+            "manage-admin": "Admin management",
+            "manage-suport": "Support management"
+        }
+    }
+}

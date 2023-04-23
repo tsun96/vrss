@@ -1,0 +1,40 @@
+{
+    "homeheader": {
+        "login": "Đăng nhập",
+        "registration-directory": "Danh bạ đăng kiểm",
+        "news": "Tin tức",
+        "notification": "Thông báo"
+    },
+    "banner": {
+        "title1": "An toàn giao thông  ",
+        "title2": "hạnh phúc của mọi người, mọi nhà",
+        "search-title": "",
+        "child1": "Đặt lịch đăng kiểm",
+        "child2": "Lịch hẹn",
+        "child3": "Thông báo",
+        "child4": "Hỗ Trợ"
+    },
+    "section": {
+        "more": "xem thêm"
+    },
+    "more": {
+        "more-title": "Thông tin Thêm",
+        "paragrap": "Sau khi tiếp nhận nhiều phản ánh của người dân, về các tình trạng xấu đang diễn ra ở các trung tâm đăng kiểm, điển hình như thông tin có trung tâm đăng kiểm chỉ tiếp nhận kiểm định phương tiện chính chủ. Mới đây, Cục đăng kiểm đã có chỉ đạo nóng xuống các trung tâm đăng kiểm, chấn chỉnh hoạt động kiểm định xe cơ giới và đưa ra một số yêu cầu khắt khe đối với các trung tâm. Ngoài ra Cục Đăng kiểm cũng cho biết đã có văn bản gửi các Sở GTVT đề nghị các đơn vị đăng kiểm hỗ trợ, tăng cường đăng kiểm viên cho các đơn vị đăng kiểm."
+    },
+    "footer": {
+        "copy-right": "Phan Trung Sơn. Thêm thông tin, vui lòng truy cập hồ sơ của tôi.",
+        "click-here": "Bấm vào đây"
+    },
+    "menu": {
+        "system": {
+            "header-user": "Người dùng",
+            "header-news": "Quản lý tin tức",
+            "header-schedule": "Quản lý lịch hẹn"
+        },
+        "user": {
+            "manage-user": "Quản lý người dùng",
+            "manage-admin": "Quản lý admin",
+            "manage-suport": "Quản lý hỗ trợ"
+        }
+    }
+}
